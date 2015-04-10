@@ -1,4 +1,3 @@
-```C++
 /***************************************
  Usage Instructions:
  1.) Hold object up to rectangle for picture.
@@ -465,4 +464,3 @@ int main(int argc, char* argv[]){
     colorRecognition();
     return 0;
 }
-```
